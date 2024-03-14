@@ -1,0 +1,77 @@
+# BÀi 1-------------------------------
+i carry your heart with me (i carry it in
+my heart) i am never without it (anywhere
+i go you go, my dear; and whatever is done
+by only me is your doing, my darling)
+i fear no fate (for you are my fate, my sweet)
+i want no world (for beautiful you are my world, my true)
+and it's you are whatever a moon has always meant        
+and whatever a sun will always sing is you
+here is the deepest secret nobody knows
+(here is the root of the root and the bud of the bud
+and the sky of the sky of a tree called life; which grows
+higher than soul can hope or mind can hide)
+and this is the wonder that's keeping the stars apart
+i carry your heart (i carry it in my heart)
+---i carry your heart with me by e.e. cummings--
+#BÀI 2--------------------------------------------
+Nhập mã sách (mã sinh viên): 23174600097
+Nhập tên sách: cơ sở dữ liệu
+Nhập tên tác giả: Đức
+Nhập năm xuất bản: 224
+Nhập số lượng sách (ngày sinh của sinh viên): 27
+Thư viện ĐHKTKTCN có 27 sách 'cơ sở dữ liệu' với mã số 23174600097.
+Cuốn sách của tác giả Đức được xuất bản vào năm 224
+# BÀI 3----------------------------------------------
+Số tiền sau 5 năm: $1338.23
+Số tiền sau 10 năm: $1790.85
+Tỷ lệ tăng trưởng giữa số tiền sau 10 năm so với sau 5 năm: 33.82%
+#BÀI 4-----------------------------------------------
+Độ dài cạnh đấy: 24
+chiều cao của hình chóp: 13
+Diện tích xung quanh: 849.21
+Diện tích toàn phần: 1425.21
+Thể tích: 2496.00
+#BÀI 5 -----------------------------------------------
+Nhập số giờ sử dụng máy lọc không khí: 100
+Tổng số tiền điện phải trả cho việc sử dụng máy lọc không khí là: 165000.00 đồng
+#BÀI 6 ----------------------------------------------
+Nhập hoành độ a: 23
+Nhập tung độ a: 34
+Nhập hoành độ b: 56
+Nhập tung độ b: 23
+Vectơ a + b = (79.0, 57.0)
+Vectơ a - b = (-33.0, 11.0)
+Độ dài vectơ a: 41.05
+Độ dài vectơ b: 60.54
+Cosin của góc giữa vectơ a và b: 0.83
+#BÀI 7 ------------------------------------------------
+Nhập a1: 1
+Nhập b1: 2
+Nhập c1: 3
+Nhập a2: 4
+Nhập b2: 5
+Nhập c2: 6
+Hệ phương trình có nghiệm x = -1.00, y = 2.00
+#BÀI 8 ---------------------------------------------------
+Nhập vào một số x : 3
+Nhập vào một số z :2
+Giá trị của biểu thức là: 2.63
+#BÀI 9 -----------------------------------------------------
+Nhập hoành độ M: 5
+Nhập tung độ M: 2
+Nhập hoành độ N: 6
+Nhập tung độ N: 2
+Nhập hoành độ P: 5
+Nhập tung độ P: 32
+Nhập hoành độ Q: 2
+Nhập tung độ Q: 9
+Trung điểm của cạnh MN: (5.5, 2.0)
+Trung điểm của cạnh NP: (5.5, 17.0)
+Trung điểm của cạnh PQ: (3.5, 20.5)
+Trung điểm của cạnh QM: (3.5, 5.5)
+#BÀI 10 -------------------------------------------------------
+Nhập số lượng viên bi muốn rút: 13
+Xác suất tất cả là bi đỏ: 0.0000
+Xác suất ít nhất một viên là bi xanh: 0.9958
+Xác suất đúng hai viên là bi vàng: 0.1235
