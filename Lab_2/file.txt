@@ -1,0 +1,54 @@
+PS C:\Users\User\OneDrive\Tài liệu\GitHub\23174600097_LeVanDuc_17A2_CaSang> & C:/Users/User/AppData/Local/Programs/Python/Python312/python.exe "c:/Users/User/OneDrive/Ta`i li
+e?u/GitHub/23174600097_LeVanDuc_17A2_CaSang/Lab_2/file.py"
+Nhập vào một số a :1
+Nhập vào một số b :2
+Phương trình có nghiệm là :  -2.0
+None
+Nhập một số nguyên: 3
+Không có chữ số hàng nghìn, xuất ra 0.
+None
+Nhập một số nguyên có ba chữ số: 435  
+Cách đọc của số nguyên này là: four hundred and thirty-five
+Nhập vào một số : 235
+None
+Nhập số người muốn mua vé :23
+Số tiền phải trả là : 275448000.0
+None
+Nhập số nguyên thứ nhất: 3
+Nhập số nguyên thứ hai: 2
+Nhập số nguyên thứ ba: 5
+Số lớn thứ hai trong ba số nguyên là: 3
+Hãy nhập cân nặng của bạn vào đây : 59
+Ôi bạn ôi ! BẠn quá béo rồi đó nha
+None
+Nhập hệ số góc của đường thẳng thứ nhất: 2
+Nhập hệ số tự do của đường thẳng thứ nhất: 4
+Nhập hệ số góc của đường thẳng thứ hai: 3
+Nhập hệ số tự do của đường thẳng thứ hai: 5
+Vị trí tương đối của hai đường thẳng là: Hai đường thẳng cắt nhau
+Nhập hệ số góc của đường thẳng: 3
+Nhập hệ số tự do của đường thẳng: 5
+Nhập hoành độ tâm của đường tròn: 2
+Nhập tung độ tâm của đường tròn: 5
+Nhập bán kính của đường tròn: 1
+Vị trí tương đối giữa đường thẳng và đường tròn là: Đường thẳng nằm ngoài đường tròn
+Chào mừng bạn đến với rạp phim!
+Dưới đây là các thể loại phim bạn có thể lựa chọn:
+1. Hành động
+2. Kinh dị
+3. Tình cảm
+4. Hài hước
+5. Hoạt hình
+Nhập số thứ tự của thể loại phim bạn muốn xem: 1
+Bạn đã chọn thể loại phim: Hành động
+Dưới đây là các phim và khung giờ chiếu:
+1. The Marksman - Tay Xạ Thủ (2021): sáng, trưa, chiều, tối
+2. Godzilla and Kong - Godzilla đại chiến Kong: sáng, trưa, chiều, tối
+3. Fast & Furious 9 - Quá nhanh quá nguy hiểm 9: sáng, trưa, chiều, tối
+4. Black Widow - Góa phụ đen: sáng, trưa, chiều, tối
+5. Spider - Man: No Way Home - Người Nhện: Không Còn Nhà: sáng, trưa, chiều, tối
+Nhập số của phim bạn muốn xem: 1
+Bạn đã chọn phim '1. The Marksman - Tay Xạ Thủ (2021)'
+Nhập khung giờ bạn muốn xem (sáng/trưa/chiều/tối): tối
+Phim '1. The Marksman - Tay Xạ Thủ (2021)' sẽ được chiếu vào khung giờ tối.
+PS C:\Users\User\OneDrive\Tài liệu\GitHub\23174600097_LeVanDuc_17A2_CaSang> 
