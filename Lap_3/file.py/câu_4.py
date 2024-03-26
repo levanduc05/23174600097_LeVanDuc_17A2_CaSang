@@ -1,0 +1,22 @@
+#Vẽ hình 1
+print("     *     ")
+print("    * *    ")
+print("   * * *   ")
+print("  * * * *  ")
+print(" * * * * * ")
+print(" * * * * * ")
+print("  * * * *  ")
+print("   * * *   ")
+print("    * *    ")
+print("     *     ")
+
+#Vẽ hình 2
+print("       *       ")
+print("      ***      ")
+print("     *****     ")
+print("    *******    ")
+print("   *********   ")
+print("  ***********  ")
+print(" ************* ")
+print("       **      ") 
+print("       **      ")
