@@ -1,0 +1,35 @@
++ Các bài tập và file chạy chương trình nên để riêng từng file code. Ví dụ: Bài 1.py, bài 2.py,...
+
++ Nhận xét và cho điểm từng bài
+- Bài 1: đúng
+Điểm bài tập: 1.0 
+
+- Bài 2: sử dụng function, kiến thức vượt ngoài kiến thức lab 1
+Điểm bài tập: 0.5
+
+- Bài 3: đúng
+Điểm bài tập: 1.0 
+
+- Bài 4: đúng
+Điểm bài tập: 1.0 
+
+- Bài 5: sử dụng function, kiến thức vượt ngoài kiến thức lab 1
+Điểm bài tập: 0.5
+
+- Bài 6: sử dụng function, tuple, kiến thức vượt ngoài kiến thức lab 1
+Điểm bài tập: 0.5
+
+- Bài 7: sử dụng function, câu điều kiện, kiến thức vượt ngoài kiến thức lab 1
+Điểm bài tập: 0.5
+
+- Bài 8: sử dụng function, kiến thức vượt ngoài kiến thức lab 1
+Điểm bài tập: 0.5
+
+- Bài 9: sử dụng function, kiến thức vượt ngoài kiến thức lab 1
+Điểm bài tập: 0.5
+
+- Bài 10: sử dụng function, câu điều kiện, kiến thức vượt ngoài kiến thức lab 1
+Điểm bài tập: 0.5
+
+Tổng điểm bài tập lab 1: 6.5
+
