@@ -1,0 +1,36 @@
+Tất cả bài tập cô đã yêu cầu là tách riêng ra từng bài. Lab 2 em vẫn chưa thực hiện
+Bài tập em sử dụng quá nhiều function. Trong khi cô đã dặn, học đến lab nào thì bài tập sẽ chỉ được sử dụng ở lab đó hoặc lab trước đó.
+
+- Bài 1: sử dụng function, kiến thức vượt ngoài kiến thức lab 1, lab 2
+Điểm bài tập: 0.5
+
+- Bài 2: sử dụng function, kiến thức vượt ngoài kiến thức lab 1, lab 2
+Điểm bài tập: 0.5
+
+- Bài 3: sử dụng function, kiến thức vượt ngoài kiến thức lab 1, lab 2
+Điểm bài tập: 0.5
+
+- Bài 4: sử dụng function, kiến thức vượt ngoài kiến thức lab 1, lab 2
+Điểm bài tập: 0.5
+
+- Bài 5: sử dụng function, kiến thức vượt ngoài kiến thức lab 1, lab 2
+Điểm bài tập: 0.5
+
+- Bài 6: sử dụng function, kiến thức vượt ngoài kiến thức lab 1, lab 2
+Điểm bài tập: 0.5
+
+- Bài 7: sử dụng function, kiến thức vượt ngoài kiến thức lab 1, lab 2
+Điểm bài tập: 0.5
+
+- Bài 8: sử dụng function, kiến thức vượt ngoài kiến thức lab 1, lab 2 
+Điểm bài tập: 0.5
+
+- Bài 9: sử dụng function, kiến thức vượt ngoài kiến thức lab 1, lab 2
+Điểm bài tập: 0.5
+
+- Bài 10: sử dụng function, kiến thức vượt ngoài kiến thức lab 1, lab 2 
+Điểm bài tập: 0.5
+
+Tổng điểm bài tập lab 2: 5 - 1 (không tách riêng từng code) = 4
+
+

@@ -1,0 +1,29 @@
+Hôm buổi học cô đã dặn chỉ nhận ảnh kết quả, chứ không nhận file .txt nữa nên lab 3 cô trừ em 2 điểm
+
+- Bài 1: 
+a) sử dụng function, kiến thức vượt ngoài lab 1,2,3
+b) sử dụng function, kiến thức vượt ngoài lab 1,2,3
+c) sử dụng function, kiến thức vượt ngoài lab 1,2,3
+d) sử dụng function, kiến thức vượt ngoài lab 1,2,3
+Điểm bài tập: 1.0
+
+- Bài 2: 
+a) sử dụng function, kiến thức vượt ngoài lab 1,2,3
+b) sử dụng function, kiến thức vượt ngoài lab 1,2,3
+Điểm bài tập: 1.0
+
+- Bài 3:
+a) sử dụng function, kiến thức vượt ngoài lab 1,2,3
+b) sử dụng function, kiến thức vượt ngoài lab 1,2,3
+c) sử dụng function, kiến thức vượt ngoài lab 1,2,3
+d) sử dụng function, kiến thức vượt ngoài lab 1,2,3
+e) sử dụng function, kiến thức vượt ngoài lab 1,2,3
+Điểm bài tập: 2.5
+
+- Bài 4:
+a) đúng
+b) đúng
+Điểm bài tập: 1.0
+
+Tổng điểm bài tập lab 3: 5.5 - 2 = 3.5 
+
