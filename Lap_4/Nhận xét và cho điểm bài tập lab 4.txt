@@ -1,0 +1,24 @@
+- Bài 1: 
+a) b) đề bài yêu cầu in ra các số chẵn lẻ chứ không phải in tổngg
+c) đúng
+Điểm bài tập: 1.5
+
+- Bài 2: 
+a) đúng
+b) đúng
+c) thiếu
+Điểm bài tập: 2.0
+
+- Bài 3: đúng
+Điểm bài tập: 1.0
+
+- Bài 4: giống đoạn code của bạn Khuất Duy Đức
+Điểm bài tập: 2.0 : 2 = 1.0
+
+- Bài 5: thiếu
+Điểm bài tập: 0
+
+- Bài 6: đúng
+Điểm bài tập: 1.0 
+
+Tổng điểm bài tập lab 4: 6.5 - 2 (thiếu ảnh kết quả) - 2 (nộp muộn) = 2.5
